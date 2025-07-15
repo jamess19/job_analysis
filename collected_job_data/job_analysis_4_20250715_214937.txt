@@ -1,0 +1,59 @@
+==================== TIN TUYỂN DỤNG 4 ====================
+================================================================================
+🎯 PHÂN TÍCH CHI TIẾT VỊ TRÍ TUYỂN DỤNG
+================================================================================
+
+📋 THÔNG TIN CƠ BẢN:
+• Vị trí tuyển dụng: Java DeveloperOffer Upto 40.000.000 [Hà Nội] - Ổn Định Và Lâu Dài - Thử Việc Nhận 100% Lương
+• Công ty: CÔNG TY CP CÔNG NGHỆ THỰC PHẨM CHÂU Á
+• Địa điểm: Hà Nội
+• Cấp bậc: Tự động phân tích từ JD
+• Ngành nghề/Lĩnh vực: Tự động phân tích từ JD
+
+================================================================================
+💼 MÔ TẢ CÔNG VIỆC CHÍNH:
+• Tham gia phát triển dự án phần mềm
+• Các dự án thuộc domain: ngân hàng, tài chính, E-commerce, thị trường Nhật, ...
+• Thực hiện thiết kế, coding và unit test cho dự án.
+• Tham gia việc review code, hỗ trợ các thành viên trong nhóm.
+• Thực hiện công việc theo sự phân công của Trưởng nhóm/Quản lý dự án, phối hợp giữa các nhóm để phát triển dự án.
+
+================================================================================
+✅ YÊU CẦU BẮT BUỘC (MUST-HAVE):
+• Có kinh nghiệm làm việc với Java tối thiểu 3 năm.
+• Thành thạo trong việc sử dụng các framework web Java như Spring MVC, Spring Boot hoặc Hibernate.
+• Hiểu biết cơ bản 1 trong các FE framework (Vue, React, Angular..)
+• Hiểu biết về thiết kế ứng dụng, công nghệ microservice.
+• Có kiến thức vững về HTML, CSS và JavaScript.
+• Có kinh nghiệm làm việc với hệ thống message queue (ActiveMQ, Kafka..) để xử lý các thư hàng đợi.
+• Có kinh nghiệm làm việc với hệ quản trị cơ sở dữ liệu quan hệ RDBMS(SQL server, PostgreSQL) và NoSQL(Cassandra, mongodb..)
+• Có kiến thức và kinh nghiệm với Linux.
+• Có khả năng làm việc độc lập và làm việc nhóm tốt.
+
+================================================================================
+⭐ YÊU CẦU ƯU TIÊN (NICE-TO-HAVE):
+• Chưa có thông tin yêu cầu ưu tiên
+
+================================================================================
+🎁 QUYỀN LỢI & PHÚC LỢI:
+• Lương: UPTO 40.000.000 VNĐ/tháng
+• Chế độ phúc lợi toàn diện
+• Tối thiểu 13 tháng lương/năm.
+• Thử việc nhận 100% lương
+• Xét tăng lương 1- 2 lần/năm.
+• Thưởng: Thưởng Tết, thưởng ngày lễ, thưởng giới thiệu nhân sự...
+• Văn phòng làm việc chuyên nghiệp hạng A.
+• Môi trường làm việc thân thiện và có tính tương hỗ cao, ổn định lâu dài.
+• Có nhiều cơ hội được đào tạo, làm việc nâng cao trình độ và cơ hội thăng tiến.
+• Có nhiều hoạt động bổ trợ tinh thần, du lịch...
+• Có cơ hội làm việc tại nước ngoài.
+
+================================================================================
+💰 MỨC LƯƠNG:
+Thoả thuận
+
+================================================================================
+🔗 NGUỒN: https://www.topcv.vn/viec-lam/java-developer-offer-upto-40-000-000-ha-noi-on-dinh-va-lau-dai-thu-viec-nhan-100-luong/1799491.html?ta_source=JobSearchList_LinkDetail&u_sr_id=V9A5W8OGFi9d44qclYTGUKgcKancrV2VRMsu1C2e_1752590902
+⏰ Trích xuất lúc: 2025-07-15T21:49:36.573260
+================================================================================
+        
