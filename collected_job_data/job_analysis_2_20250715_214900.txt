@@ -1,0 +1,51 @@
+==================== TIN TUYỂN DỤNG 2 ====================
+================================================================================
+🎯 PHÂN TÍCH CHI TIẾT VỊ TRÍ TUYỂN DỤNG
+================================================================================
+
+📋 THÔNG TIN CƠ BẢN:
+• Vị trí tuyển dụng: Senior Java Developer(Mảng Fintech) Thu Nhập Từ 30 - 45 Triệu
+• Công ty: CÔNG TY TNHH DACO
+• Địa điểm: Hà Nội
+• Cấp bậc: Tự động phân tích từ JD
+• Ngành nghề/Lĩnh vực: Tự động phân tích từ JD
+
+================================================================================
+💼 MÔ TẢ CÔNG VIỆC CHÍNH:
+• Tham gia phát triển sản phẩm fintech Tikop. Cung cấp sản phẩm ứng dụng thanh toán và chuyển tiền với số lượng giao dịch rất lớn, đòi hỏi hiệu năng xử lý cao
+• Tham gia làm rõ nghiệp vụ, thiết kế giải pháp, phát triển nâng cấp hệ thống theo yêu cầu
+• Tham gia review thiết kế, review code, tối ưu hệ thống đáp ứng lưu lượng truy cập cao
+• Tham gia vào phát triển các công cụ nội bộ:  hỗ trợ vận hành, báo cáo chỉ số, ...
+• Nghiên cứu áp dụng công nghệ mới nâng cao chất lượng, tối ưu nguồn lực phát triển
+
+================================================================================
+✅ YÊU CẦU BẮT BUỘC (MUST-HAVE):
+• Chưa có thông tin yêu cầu bắt buộc chi tiết
+
+================================================================================
+⭐ YÊU CẦU ƯU TIÊN (NICE-TO-HAVE):
+• Tốt nghiệp cao đẳng/đại học chuyên ngành Công nghệ thông tin, Kỹ sư phần mềm.
+• Thành thạo tư duy về thiết kế hướng đối tượng, cấu trúc dữ liệu và nắm vững một số design pattern thông dụng.
+• Có kinh nghiệm làm việc với framework java như Spring boot, JPA hoặc Php như Laravel
+• Thành thạo SQL, có kiến thức về các hệ quản trị cơ sở dữ liệu MySQL, Postgres, noSQL, có khả năng tối ưu CSDL
+
+================================================================================
+🎁 QUYỀN LỢI & PHÚC LỢI:
+• Lương từ 30 - 45 triệu thỏa thuận theo năng lực; chế độ thưởng hấp dẫn;
+• Trợ cấp ăn trưa bằng coupon tại Canteen Công ty, vé gửi xe miễn phí;
+• Chế độ bảo hiểm và nghỉ phép theo luật lao động; khám sức khỏe định kỳ;
+• Chương trình đào tạo, huấn luyện liên tục; Cơ hội thăng tiến và phát triển sự nghiệp;
+• Du lịch khám phá các vùng đất mới, Teambuilding gắn kết đội ngũ;
+• CLB chăm lo sức khỏe tinh thần như yoga, bóng đá, cầu lông...
+• Môi trường làm việc trẻ trung, sáng tạo, năng động;
+• Thời gian làm việc: Thứ 2 - thứ 6 (9h00 - 18h00) và 02 sáng Thứ 7 Hybrid
+
+================================================================================
+💰 MỨC LƯƠNG:
+15 - 25 triệu
+
+================================================================================
+🔗 NGUỒN: https://www.topcv.vn/viec-lam/senior-java-developer-mang-fintech-thu-nhap-tu-30-45-trieu/1560857.html?ta_source=JobSearchList_LinkDetail&u_sr_id=V9A5W8OGFi9d44qclYTGUKgcKancrV2VRMsu1C2e_1752590902
+⏰ Trích xuất lúc: 2025-07-15T21:49:00.610869
+================================================================================
+        
