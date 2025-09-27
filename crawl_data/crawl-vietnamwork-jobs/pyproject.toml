@@ -1,0 +1,19 @@
+[project]
+name = "crawl-vietnamwork-jobs"
+version = "0.1.0"
+description = "VietnamWorks job crawler (schema aligned with TopCV/CareerViet)."
+requires-python = ">=3.9"
+authors = [{ name = "Your Name" }]
+readme = "README.md"
+
+# Core runtime deps
+dependencies = [
+  "requests>=2.31.0",
+  "beautifulsoup4>=4.12.2",
+  "lxml>=5.1.0",
+  "pandas>=2.1.0",
+  "urllib3>=2.2.0",
+]
+
+[tool.uv]
+# Optional: if you use uv, this enables faster installs and reproducibility
