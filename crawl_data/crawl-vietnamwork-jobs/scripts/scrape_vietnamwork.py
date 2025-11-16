@@ -8,12 +8,20 @@ import json
 from bs4 import BeautifulSoup
 from urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
+import platform
 
 BASE = "https://www.vietnamworks.com"
+if platform.system() == "Windows":
+    USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/123.0.0.0 Safari/537.36")
+else:
+    USER_AGENT = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/123.0.0.0 Safari/537.36")
+
 HEADERS = {
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                   "Chrome/123.0.0.0 Safari/537.36"),
+    "User-Agent": USER_AGENT,
     "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Referer": "https://www.vietnamworks.com/",

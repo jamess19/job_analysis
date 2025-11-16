@@ -1,0 +1,122 @@
+# ============================================================================
+# Job Analysis Project - Complete Dependencies
+# Python >= 3.8
+# ============================================================================
+
+# ============================================================================
+# CORE WEB SCRAPING DEPENDENCIES
+# ============================================================================
+# HTTP client library for making web requests to job sites
+requests>=2.32.4
+
+# HTML/XML parsing for extracting job data from web pages
+beautifulsoup4>=4.13.5
+
+# Fast XML/HTML processing library (required by beautifulsoup4 for lxml parser)
+lxml>=6.0.1
+
+# Low-level HTTP client with connection pooling and retry logic
+urllib3>=2.2.3
+
+# ============================================================================
+# BROWSER AUTOMATION & DYNAMIC CONTENT SCRAPING
+# ============================================================================
+# Selenium WebDriver for automating browser interactions (LinkedIn, CareerViet)
+selenium>=4.0.0
+
+# Chrome/Chromium driver management (auto-download and version management)
+webdriver-manager>=4.0.0
+
+# Undetected ChromeDriver to bypass bot detection on websites
+undetected-chromedriver>=3.5.0
+
+# Generate random user agents to avoid IP blocking and detection
+fake-useragent>=1.4.0
+
+# ============================================================================
+# DATA PROCESSING & FILE I/O
+# ============================================================================
+# Data manipulation, cleaning, and export to CSV/JSON/Excel
+pandas>=2.1.0
+
+# Excel file format support (.xlsx file creation and manipulation)
+openpyxl>=3.1.5
+
+# ============================================================================
+# JOB SCRAPING FRAMEWORKS
+# ============================================================================
+# Multi-site job scraper (used for LinkedIn and other job boards - v2)
+jobspy>=2.0.0
+
+# ============================================================================
+# BUILT-IN PYTHON MODULES (No installation required)
+# ============================================================================
+# Standard library modules used throughout the project:
+# - json        : JSON serialization and deserialization
+# - re          : Regular expressions for data extraction and validation
+# - time        : Time-based operations (delays, rate limiting)
+# - random      : Random number generation for varied request patterns
+# - logging     : Application logging and debugging
+# - datetime    : Date and time handling for job posting dates
+# - pathlib     : Path object handling (modern alternative to os.path)
+# - typing      : Type hints (Dict, List, Optional, etc.)
+# - csv         : CSV file I/O operations
+# - os          : Operating system operations (env vars, file paths)
+# - argparse    : Command-line argument parsing
+# - platform    : Platform detection (OS detection)
+# - urllib.parse: URL parsing and encoding
+
+# ============================================================================
+# OPTIONAL DEPENDENCIES
+# ============================================================================
+# Uncomment as needed for development and analysis:
+
+# # For Jupyter notebook development and interactive analysis
+# jupyter>=1.0.0
+# ipython>=8.0.0
+
+# # For data visualization
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+# plotly>=5.0.0
+
+# # For data analysis and statistics
+# numpy>=1.24.0
+# scipy>=1.10.0
+
+# # For API development and deployment (if creating job API service)
+# fastapi>=0.100.0
+# uvicorn>=0.23.0
+# pydantic>=2.0.0
+
+# # For database integration (if storing jobs in database)
+# sqlalchemy>=2.0.0
+# psycopg2-binary>=2.9.0  # PostgreSQL
+# pymongo>=4.5.0           # MongoDB
+
+# # For task scheduling (if automating scheduled scraping)
+# schedule>=1.2.0
+# APScheduler>=3.10.0
+
+# # For testing
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# pytest-asyncio>=0.21.0
+
+# # For code quality and linting
+# black>=23.0.0
+# flake8>=6.0.0
+# pylint>=2.17.0
+# mypy>=1.4.0
+
+# ============================================================================
+# PROJECT SUMMARY
+# ============================================================================
+# This project collects job data from multiple Vietnamese job platforms:
+# - VietnamWorks
+# - ITViec
+# - LinkedIn (with advanced automation)
+# - CareerViet
+#
+# Data is exported to CSV, JSON, and Excel formats for analysis and reporting.
+# ============================================================================

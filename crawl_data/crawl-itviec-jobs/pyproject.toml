@@ -1,0 +1,17 @@
+[project]
+name = "crawl-itviec-jobs"
+version = "0.1.0"
+description = "Scraper for ITViec job listings"
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "pandas>=2.0.0",
+    "lxml>=4.9.0",
+    "urllib3>=1.26.0",
+    "openpyxl>=3.1.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
